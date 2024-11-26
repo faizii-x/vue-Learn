@@ -1,5 +1,5 @@
 <template>
-  <h1>Welcome to the Services Page</h1>
+  <h1 class="text-center mb-4">Welcome to the Services Page</h1>
 
   <CycleUpdate />
 </template>
